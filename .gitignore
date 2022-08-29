@@ -2,3 +2,6 @@ maps/
 audio_samples/
 .gitignore
 .DS_Store
+maestro/
+datasets/
+*.zip
